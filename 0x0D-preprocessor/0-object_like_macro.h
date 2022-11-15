@@ -11,4 +11,5 @@
 int main(void)
 {
 #define SIZE 1024
+malloc(SIZE)
 }
